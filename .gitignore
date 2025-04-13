@@ -1,0 +1,10 @@
+src/hey_cli.egg-info
+src/hey_python.egg-info
+build
+dist
+.hey
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+upload.bat
